@@ -15,7 +15,7 @@
 [![Discord](https://img.shields.io/badge/Chat%20on-Discord-%235865f2)](https://discord.gg/2J2xmzCS79)
 
   <p align="center">
-   SvelteUI is an all inclusive Svelte library - Components, Actions, Utilities, Animations <br /> What more could you ask for ¯\_(ツ)_/¯
+   SvelteUI is an all inclusive Svelte library > Components, Actions, Utilities, Animations <br /> What more could you ask for ¯\_(ツ)_/¯
     <br />
     <a href="https://svelteui.dev/"><strong>Explore the docs »</strong></a>
     <br />
